@@ -156,7 +156,7 @@
 <body>
   <div class="container">
     <header>
-      <div class="photo">
+      <img class="profile" src="IMG_8484.jpeg" alt="Lăng Thị Ngọc Ánh">
         <!-- Ảnh bạn đã tải lên -->
         <img src="163EFF6C-EA83-4302-BA8D-BFAC6261A5C6.jpeg" alt="學生照片">
       </div>

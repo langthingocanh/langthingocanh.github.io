@@ -43,10 +43,10 @@
       border: 3px solid #c9dcff;
       flex-shrink: 0;
     }
-    .photo img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+   img.profile {
+    width: 150px;
+    border-radius: 50%;
+}
     }
     .info h1 {
       margin: 0;

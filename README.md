@@ -165,7 +165,7 @@
         <p>學生 / 健康管理系</p>
         <div class="chips">
           <div class="chip">學號: 113011139</div>
-          <div class="chip">Email: example@email.com</div>
+          <div class="chip">Email: langanh2k5@gmail.com</div>
           <div class="chip">電話: 09xx-xxx-xxx</div>
         </div>
         <div class="actions">
